@@ -1,9 +1,9 @@
 {
-  "name": "cordova-hot-code-push-plugin",
+  "name": "cordova-hot-code-push-plugin-2",
   "version": "1.5.2",
   "description": "Cordova plugin to perform code updates on the fly",
   "cordova": {
-    "id": "cordova-hot-code-push-plugin",
+    "id": "cordova-hot-code-push-plugin-2",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordnet/cordova-hot-code-push.git"
+    "url": "git+https://github.com/be4t5/cordova-hot-code-push.git"
   },
   "keywords": [
     "cordova",
